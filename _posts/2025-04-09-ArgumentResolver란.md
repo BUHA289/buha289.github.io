@@ -1,4 +1,4 @@
-`ArgumentResolver`는 Spring Framework에 사용되며,컨트롤러 메서드의 파라미터(매개변수)를 해석하고 주입해주는 역할**
+`ArgumentResolver`는 Spring Framework에 사용되며,컨트롤러 메서드의 파라미터(매개변수)를 해석하고 주입해주는 역할
 
 ### 간단 설명
 
@@ -6,7 +6,7 @@
 
 ------
 
-###  개 정의
+###  개념 정의
 
 > `HandlerMethodArgumentResolver`는 스프링 MVC에서 컨트롤러 메서드의 파라미터를 어떻게 바인딩할지를 결정하는 인터페이스
 
